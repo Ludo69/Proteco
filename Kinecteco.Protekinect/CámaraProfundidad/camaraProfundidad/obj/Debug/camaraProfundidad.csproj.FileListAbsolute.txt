@@ -1,0 +1,43 @@
+c:\users\zeroner\documents\visual studio 2012\Projects\camaraProfundidad\camaraProfundidad\bin\Debug\camaraProfundidad.exe.config
+c:\users\zeroner\documents\visual studio 2012\Projects\camaraProfundidad\camaraProfundidad\obj\Debug\camaraProfundidad.csprojResolveAssemblyReference.cache
+c:\users\zeroner\documents\visual studio 2012\Projects\camaraProfundidad\camaraProfundidad\obj\Debug\MainWindow.baml
+c:\users\zeroner\documents\visual studio 2012\Projects\camaraProfundidad\camaraProfundidad\obj\Debug\MainWindow.g.cs
+c:\users\zeroner\documents\visual studio 2012\Projects\camaraProfundidad\camaraProfundidad\obj\Debug\App.g.cs
+c:\users\zeroner\documents\visual studio 2012\Projects\camaraProfundidad\camaraProfundidad\obj\Debug\camaraProfundidad_MarkupCompile.cache
+c:\users\zeroner\documents\visual studio 2012\Projects\camaraProfundidad\camaraProfundidad\obj\Debug\camaraProfundidad.g.resources
+c:\users\zeroner\documents\visual studio 2012\Projects\camaraProfundidad\camaraProfundidad\obj\Debug\camaraProfundidad.Properties.Resources.resources
+c:\users\zeroner\documents\visual studio 2012\Projects\camaraProfundidad\camaraProfundidad\obj\Debug\camaraProfundidad.csproj.GenerateResource.Cache
+c:\users\zeroner\documents\visual studio 2012\Projects\camaraProfundidad\camaraProfundidad\bin\Debug\camaraProfundidad.exe
+c:\users\zeroner\documents\visual studio 2012\Projects\camaraProfundidad\camaraProfundidad\bin\Debug\camaraProfundidad.pdb
+c:\users\zeroner\documents\visual studio 2012\Projects\camaraProfundidad\camaraProfundidad\obj\Debug\camaraProfundidad.exe
+c:\users\zeroner\documents\visual studio 2012\Projects\camaraProfundidad\camaraProfundidad\obj\Debug\camaraProfundidad.pdb
+C:\Users\Norma1\Downloads\Kinect-master\Kinect-master\Practica 5\camaraProfundidad\camaraProfundidad\bin\Debug\camaraProfundidad.exe.config
+C:\Users\Norma1\Downloads\Kinect-master\Kinect-master\Practica 5\camaraProfundidad\camaraProfundidad\obj\Debug\camaraProfundidad.exe
+C:\Users\Norma1\Downloads\Kinect-master\Kinect-master\Practica 5\camaraProfundidad\camaraProfundidad\obj\Debug\camaraProfundidad.pdb
+C:\Users\Norma1\Downloads\Kinect-master\Kinect-master\Practica 5\camaraProfundidad\camaraProfundidad\bin\Debug\camaraProfundidad.exe
+C:\Users\Norma1\Downloads\Kinect-master\Kinect-master\Practica 5\camaraProfundidad\camaraProfundidad\bin\Debug\camaraProfundidad.pdb
+C:\Users\Norma1\Downloads\Kinect-master\Kinect-master\Practica 5\camaraProfundidad\camaraProfundidad\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Norma1\Downloads\Kinect-master\Kinect-master\Practica 5\camaraProfundidad\camaraProfundidad\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Norma1\Downloads\Kinect-master\Kinect-master\Practica 5\camaraProfundidad\camaraProfundidad\obj\Debug\camaraProfundidad.csprojResolveAssemblyReference.cache
+C:\Users\Norma1\Downloads\Kinect-master\Kinect-master\Practica 5\camaraProfundidad\camaraProfundidad\obj\Debug\MainWindow.baml
+C:\Users\Norma1\Downloads\Kinect-master\Kinect-master\Practica 5\camaraProfundidad\camaraProfundidad\obj\Debug\MainWindow.g.cs
+C:\Users\Norma1\Downloads\Kinect-master\Kinect-master\Practica 5\camaraProfundidad\camaraProfundidad\obj\Debug\App.g.cs
+C:\Users\Norma1\Downloads\Kinect-master\Kinect-master\Practica 5\camaraProfundidad\camaraProfundidad\obj\Debug\camaraProfundidad_MarkupCompile.cache
+C:\Users\Norma1\Downloads\Kinect-master\Kinect-master\Practica 5\camaraProfundidad\camaraProfundidad\obj\Debug\camaraProfundidad.g.resources
+C:\Users\Norma1\Downloads\Kinect-master\Kinect-master\Practica 5\camaraProfundidad\camaraProfundidad\obj\Debug\camaraProfundidad.Properties.Resources.resources
+C:\Users\Norma1\Downloads\Kinect-master\Kinect-master\Practica 5\camaraProfundidad\camaraProfundidad\obj\Debug\camaraProfundidad.csproj.GenerateResource.Cache
+C:\Users\Norma1\Desktop\Kinect-master\Practica 5\camaraProfundidad\camaraProfundidad\bin\Debug\camaraProfundidad.exe.config
+C:\Users\Norma1\Desktop\Kinect-master\Practica 5\camaraProfundidad\camaraProfundidad\obj\Debug\camaraProfundidad.exe
+C:\Users\Norma1\Desktop\Kinect-master\Practica 5\camaraProfundidad\camaraProfundidad\obj\Debug\camaraProfundidad.pdb
+C:\Users\Norma1\Desktop\Kinect-master\Practica 5\camaraProfundidad\camaraProfundidad\bin\Debug\camaraProfundidad.exe
+C:\Users\Norma1\Desktop\Kinect-master\Practica 5\camaraProfundidad\camaraProfundidad\bin\Debug\camaraProfundidad.pdb
+C:\Users\Norma1\Desktop\Kinect-master\Practica 5\camaraProfundidad\camaraProfundidad\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Norma1\Desktop\Kinect-master\Practica 5\camaraProfundidad\camaraProfundidad\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Norma1\Desktop\Kinect-master\Practica 5\camaraProfundidad\camaraProfundidad\obj\Debug\camaraProfundidad.csprojResolveAssemblyReference.cache
+C:\Users\Norma1\Desktop\Kinect-master\Practica 5\camaraProfundidad\camaraProfundidad\obj\Debug\MainWindow.baml
+C:\Users\Norma1\Desktop\Kinect-master\Practica 5\camaraProfundidad\camaraProfundidad\obj\Debug\MainWindow.g.cs
+C:\Users\Norma1\Desktop\Kinect-master\Practica 5\camaraProfundidad\camaraProfundidad\obj\Debug\App.g.cs
+C:\Users\Norma1\Desktop\Kinect-master\Practica 5\camaraProfundidad\camaraProfundidad\obj\Debug\camaraProfundidad_MarkupCompile.cache
+C:\Users\Norma1\Desktop\Kinect-master\Practica 5\camaraProfundidad\camaraProfundidad\obj\Debug\camaraProfundidad.g.resources
+C:\Users\Norma1\Desktop\Kinect-master\Practica 5\camaraProfundidad\camaraProfundidad\obj\Debug\camaraProfundidad.Properties.Resources.resources
+C:\Users\Norma1\Desktop\Kinect-master\Practica 5\camaraProfundidad\camaraProfundidad\obj\Debug\camaraProfundidad.csproj.GenerateResource.Cache
