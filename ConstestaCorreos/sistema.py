@@ -1,5 +1,5 @@
- # -*- coding: utf-8 -*-
-#Pyhon 3
+# -*- coding: utf-8 -*-
+#Pyhon 3 lalalala
 import smtplib
 
 
