@@ -1,0 +1,16 @@
+c:\users\norma1\documents\visual studio 2015\Projects\CamaraWeb\CamaraWeb\bin\Debug\CamaraWeb.exe.config
+c:\users\norma1\documents\visual studio 2015\Projects\CamaraWeb\CamaraWeb\bin\Debug\CamaraWeb.exe
+c:\users\norma1\documents\visual studio 2015\Projects\CamaraWeb\CamaraWeb\bin\Debug\CamaraWeb.pdb
+c:\users\norma1\documents\visual studio 2015\Projects\CamaraWeb\CamaraWeb\bin\Debug\Microsoft.Kinect.dll
+c:\users\norma1\documents\visual studio 2015\Projects\CamaraWeb\CamaraWeb\bin\Debug\Microsoft.Kinect.xml
+c:\users\norma1\documents\visual studio 2015\Projects\CamaraWeb\CamaraWeb\obj\Debug\CamaraWeb.csprojResolveAssemblyReference.cache
+c:\users\norma1\documents\visual studio 2015\Projects\CamaraWeb\CamaraWeb\obj\Debug\MainWindow.g.cs
+c:\users\norma1\documents\visual studio 2015\Projects\CamaraWeb\CamaraWeb\obj\Debug\App.g.cs
+c:\users\norma1\documents\visual studio 2015\Projects\CamaraWeb\CamaraWeb\obj\Debug\CamaraWeb_MarkupCompile.cache
+c:\users\norma1\documents\visual studio 2015\Projects\CamaraWeb\CamaraWeb\obj\Debug\CamaraWeb_MarkupCompile.lref
+c:\users\norma1\documents\visual studio 2015\Projects\CamaraWeb\CamaraWeb\obj\Debug\MainWindow.baml
+c:\users\norma1\documents\visual studio 2015\Projects\CamaraWeb\CamaraWeb\obj\Debug\CamaraWeb.g.resources
+c:\users\norma1\documents\visual studio 2015\Projects\CamaraWeb\CamaraWeb\obj\Debug\CamaraWeb.Properties.Resources.resources
+c:\users\norma1\documents\visual studio 2015\Projects\CamaraWeb\CamaraWeb\obj\Debug\CamaraWeb.csproj.GenerateResource.Cache
+c:\users\norma1\documents\visual studio 2015\Projects\CamaraWeb\CamaraWeb\obj\Debug\CamaraWeb.exe
+c:\users\norma1\documents\visual studio 2015\Projects\CamaraWeb\CamaraWeb\obj\Debug\CamaraWeb.pdb
