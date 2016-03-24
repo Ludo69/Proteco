@@ -14,3 +14,6 @@ c:\users\norma1\documents\visual studio 2015\Projects\CamaraWeb\CamaraWeb\obj\De
 c:\users\norma1\documents\visual studio 2015\Projects\CamaraWeb\CamaraWeb\obj\Debug\CamaraWeb.csproj.GenerateResource.Cache
 c:\users\norma1\documents\visual studio 2015\Projects\CamaraWeb\CamaraWeb\obj\Debug\CamaraWeb.exe
 c:\users\norma1\documents\visual studio 2015\Projects\CamaraWeb\CamaraWeb\obj\Debug\CamaraWeb.pdb
+C:\Users\Norma1\Desktop\Proteco\Kinecteco.Protekinect\CámaraWeb\CamaraWeb\bin\Debug\CamaraWeb.exe.config
+C:\Users\Norma1\Desktop\Proteco\Kinecteco.Protekinect\CámaraWeb\CamaraWeb\obj\Debug\CamaraWeb.exe
+C:\Users\Norma1\Desktop\Proteco\Kinecteco.Protekinect\CámaraWeb\CamaraWeb\obj\Debug\CamaraWeb.pdb
