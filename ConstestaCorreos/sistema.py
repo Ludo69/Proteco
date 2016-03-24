@@ -1,4 +1,6 @@
- # -*- coding: utf-8 -*-
+#Contesta correos en Python 3
+# -*- coding: utf-8 -*-
+
 import smtplib
 
 def enviar(x):
