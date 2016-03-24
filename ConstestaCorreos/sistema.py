@@ -1,7 +1,9 @@
-#Contesta correos en Python 3
-# -*- coding: utf-8 -*-
-
+ # -*- coding: utf-8 -*-
+#Pyhon3
 import smtplib
+
+
+
 
 def enviar(x):
 	para=x
