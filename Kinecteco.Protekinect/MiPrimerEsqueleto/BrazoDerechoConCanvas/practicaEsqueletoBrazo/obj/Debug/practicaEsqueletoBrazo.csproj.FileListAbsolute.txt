@@ -1,0 +1,43 @@
+c:\users\zeroner\documents\visual studio 2012\Projects\practicaEsqueletoBrazo\practicaEsqueletoBrazo\bin\Debug\practicaEsqueletoBrazo.exe.config
+c:\users\zeroner\documents\visual studio 2012\Projects\practicaEsqueletoBrazo\practicaEsqueletoBrazo\bin\Debug\practicaEsqueletoBrazo.exe
+c:\users\zeroner\documents\visual studio 2012\Projects\practicaEsqueletoBrazo\practicaEsqueletoBrazo\bin\Debug\practicaEsqueletoBrazo.pdb
+c:\users\zeroner\documents\visual studio 2012\Projects\practicaEsqueletoBrazo\practicaEsqueletoBrazo\obj\Debug\practicaEsqueletoBrazo.csprojResolveAssemblyReference.cache
+c:\users\zeroner\documents\visual studio 2012\Projects\practicaEsqueletoBrazo\practicaEsqueletoBrazo\obj\Debug\MainWindow.baml
+c:\users\zeroner\documents\visual studio 2012\Projects\practicaEsqueletoBrazo\practicaEsqueletoBrazo\obj\Debug\MainWindow.g.cs
+c:\users\zeroner\documents\visual studio 2012\Projects\practicaEsqueletoBrazo\practicaEsqueletoBrazo\obj\Debug\App.g.cs
+c:\users\zeroner\documents\visual studio 2012\Projects\practicaEsqueletoBrazo\practicaEsqueletoBrazo\obj\Debug\practicaEsqueletoBrazo_MarkupCompile.cache
+c:\users\zeroner\documents\visual studio 2012\Projects\practicaEsqueletoBrazo\practicaEsqueletoBrazo\obj\Debug\practicaEsqueletoBrazo.g.resources
+c:\users\zeroner\documents\visual studio 2012\Projects\practicaEsqueletoBrazo\practicaEsqueletoBrazo\obj\Debug\practicaEsqueletoBrazo.Properties.Resources.resources
+c:\users\zeroner\documents\visual studio 2012\Projects\practicaEsqueletoBrazo\practicaEsqueletoBrazo\obj\Debug\practicaEsqueletoBrazo.csproj.GenerateResource.Cache
+c:\users\zeroner\documents\visual studio 2012\Projects\practicaEsqueletoBrazo\practicaEsqueletoBrazo\obj\Debug\practicaEsqueletoBrazo.exe
+c:\users\zeroner\documents\visual studio 2012\Projects\practicaEsqueletoBrazo\practicaEsqueletoBrazo\obj\Debug\practicaEsqueletoBrazo.pdb
+C:\Users\Norma1\Downloads\Kinect-master\Kinect-master\Practica 7\practicaEsqueletoBrazo\practicaEsqueletoBrazo\bin\Debug\practicaEsqueletoBrazo.exe.config
+C:\Users\Norma1\Downloads\Kinect-master\Kinect-master\Practica 7\practicaEsqueletoBrazo\practicaEsqueletoBrazo\obj\Debug\practicaEsqueletoBrazo.exe
+C:\Users\Norma1\Downloads\Kinect-master\Kinect-master\Practica 7\practicaEsqueletoBrazo\practicaEsqueletoBrazo\obj\Debug\practicaEsqueletoBrazo.pdb
+C:\Users\Norma1\Downloads\Kinect-master\Kinect-master\Practica 7\practicaEsqueletoBrazo\practicaEsqueletoBrazo\bin\Debug\practicaEsqueletoBrazo.exe
+C:\Users\Norma1\Downloads\Kinect-master\Kinect-master\Practica 7\practicaEsqueletoBrazo\practicaEsqueletoBrazo\bin\Debug\practicaEsqueletoBrazo.pdb
+C:\Users\Norma1\Downloads\Kinect-master\Kinect-master\Practica 7\practicaEsqueletoBrazo\practicaEsqueletoBrazo\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Norma1\Downloads\Kinect-master\Kinect-master\Practica 7\practicaEsqueletoBrazo\practicaEsqueletoBrazo\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Norma1\Downloads\Kinect-master\Kinect-master\Practica 7\practicaEsqueletoBrazo\practicaEsqueletoBrazo\obj\Debug\practicaEsqueletoBrazo.csprojResolveAssemblyReference.cache
+C:\Users\Norma1\Downloads\Kinect-master\Kinect-master\Practica 7\practicaEsqueletoBrazo\practicaEsqueletoBrazo\obj\Debug\MainWindow.baml
+C:\Users\Norma1\Downloads\Kinect-master\Kinect-master\Practica 7\practicaEsqueletoBrazo\practicaEsqueletoBrazo\obj\Debug\MainWindow.g.cs
+C:\Users\Norma1\Downloads\Kinect-master\Kinect-master\Practica 7\practicaEsqueletoBrazo\practicaEsqueletoBrazo\obj\Debug\App.g.cs
+C:\Users\Norma1\Downloads\Kinect-master\Kinect-master\Practica 7\practicaEsqueletoBrazo\practicaEsqueletoBrazo\obj\Debug\practicaEsqueletoBrazo_MarkupCompile.cache
+C:\Users\Norma1\Downloads\Kinect-master\Kinect-master\Practica 7\practicaEsqueletoBrazo\practicaEsqueletoBrazo\obj\Debug\practicaEsqueletoBrazo.g.resources
+C:\Users\Norma1\Downloads\Kinect-master\Kinect-master\Practica 7\practicaEsqueletoBrazo\practicaEsqueletoBrazo\obj\Debug\practicaEsqueletoBrazo.Properties.Resources.resources
+C:\Users\Norma1\Downloads\Kinect-master\Kinect-master\Practica 7\practicaEsqueletoBrazo\practicaEsqueletoBrazo\obj\Debug\practicaEsqueletoBrazo.csproj.GenerateResource.Cache
+C:\Users\Norma1\Desktop\Kinect-master\Practica 7\practicaEsqueletoBrazo\practicaEsqueletoBrazo\bin\Debug\practicaEsqueletoBrazo.exe.config
+C:\Users\Norma1\Desktop\Kinect-master\Practica 7\practicaEsqueletoBrazo\practicaEsqueletoBrazo\obj\Debug\practicaEsqueletoBrazo.exe
+C:\Users\Norma1\Desktop\Kinect-master\Practica 7\practicaEsqueletoBrazo\practicaEsqueletoBrazo\obj\Debug\practicaEsqueletoBrazo.pdb
+C:\Users\Norma1\Desktop\Kinect-master\Practica 7\practicaEsqueletoBrazo\practicaEsqueletoBrazo\bin\Debug\practicaEsqueletoBrazo.exe
+C:\Users\Norma1\Desktop\Kinect-master\Practica 7\practicaEsqueletoBrazo\practicaEsqueletoBrazo\bin\Debug\practicaEsqueletoBrazo.pdb
+C:\Users\Norma1\Desktop\Kinect-master\Practica 7\practicaEsqueletoBrazo\practicaEsqueletoBrazo\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Norma1\Desktop\Kinect-master\Practica 7\practicaEsqueletoBrazo\practicaEsqueletoBrazo\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Norma1\Desktop\Kinect-master\Practica 7\practicaEsqueletoBrazo\practicaEsqueletoBrazo\obj\Debug\practicaEsqueletoBrazo.csprojResolveAssemblyReference.cache
+C:\Users\Norma1\Desktop\Kinect-master\Practica 7\practicaEsqueletoBrazo\practicaEsqueletoBrazo\obj\Debug\MainWindow.baml
+C:\Users\Norma1\Desktop\Kinect-master\Practica 7\practicaEsqueletoBrazo\practicaEsqueletoBrazo\obj\Debug\MainWindow.g.cs
+C:\Users\Norma1\Desktop\Kinect-master\Practica 7\practicaEsqueletoBrazo\practicaEsqueletoBrazo\obj\Debug\App.g.cs
+C:\Users\Norma1\Desktop\Kinect-master\Practica 7\practicaEsqueletoBrazo\practicaEsqueletoBrazo\obj\Debug\practicaEsqueletoBrazo_MarkupCompile.cache
+C:\Users\Norma1\Desktop\Kinect-master\Practica 7\practicaEsqueletoBrazo\practicaEsqueletoBrazo\obj\Debug\practicaEsqueletoBrazo.g.resources
+C:\Users\Norma1\Desktop\Kinect-master\Practica 7\practicaEsqueletoBrazo\practicaEsqueletoBrazo\obj\Debug\practicaEsqueletoBrazo.Properties.Resources.resources
+C:\Users\Norma1\Desktop\Kinect-master\Practica 7\practicaEsqueletoBrazo\practicaEsqueletoBrazo\obj\Debug\practicaEsqueletoBrazo.csproj.GenerateResource.Cache
