@@ -21,6 +21,7 @@ namespace ControlesDelToolkit
 {
     /// <summary>
     /// Lógica de interacción para MainWindow.xaml
+    /// Código mejorado.
     /// </summary>
     public partial class MainWindow : Window
     {
