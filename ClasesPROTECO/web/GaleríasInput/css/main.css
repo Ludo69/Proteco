@@ -1,0 +1,41 @@
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+.galeria-container{
+	background: rgba(0,0,0,0.7);
+    padding: 50px;
+    /*display: none*/;
+}
+ul li{
+	cursor: pointer;
+}
+ul li:hover{
+	opacity: 0.8;
+}
+
+.tache{
+	color: #FFF;
+	font-size: 30px;
+	position: relative;
+    top: -45px;
+    left: -45px;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

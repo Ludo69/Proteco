@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<!--Los elementos deben ser hijos directos del elemento definido
+es diferente de un selector descendente-->
+
+<head>
+<meta charset="utf-8">
+	<title>Selectores Avanzados D:</title>
+
+	<style>
+		div > h2 {
+			background-color: gray;
+		}
+
+		div > p {
+			background-color: yellow;
+		}
+
+		img {
+			width: 50%;
+			height: 50%;
+		}
+	</style>
+
+</head>
+
+<body>
+	<h1>Selector de hijos</h1>
+
+	<div>
+		<h2>Panzerkampfwagen VI Tiger Ausf. H</h2>
+		<img src="Imagenes/Panzer Tank World War II.jpg">
+		<p>Peso total: 56 [Tn]</p>
+		<p>Velocidad máxima: 40 km/h en carretera</p>
+		<p>Armamento principal: Kampfwagenkanone 36L/56 de 88mm</p>
+	</div>
+
+	<div>
+		<span><p>No tengo estilo porque no soy hijo directo :'v</p></span>
+	</div>
+
+	<p>Menos yo porque ni estoy en un div :'v</p>
+</body>
+</html>

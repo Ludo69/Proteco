@@ -1,0 +1,21 @@
+$color1: #555555
+$fuente:Sans-serif
+body
+  margin: 0px
+  font: $fuente
+  header
+    background-color: $color1
+    &:hover
+      background-color: lightness($color1)
+.menu
+  ul
+    li
+      list-style: none
+      display: inline-block
+      a
+        text-decoration: none
+        color: darken($color1,80%)
+        &:hover
+          font-size: 20px
+        
+        

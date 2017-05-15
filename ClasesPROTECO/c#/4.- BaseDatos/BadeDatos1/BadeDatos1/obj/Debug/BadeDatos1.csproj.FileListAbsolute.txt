@@ -1,0 +1,25 @@
+Z:\Documentos\Visual Studio 2013\Projects\csharp20152\BadeDatos1\BadeDatos1\bin\Debug\BadeDatos1.exe.config
+Z:\Documentos\Visual Studio 2013\Projects\csharp20152\BadeDatos1\BadeDatos1\bin\Debug\Itinerario.mdf
+Z:\Documentos\Visual Studio 2013\Projects\csharp20152\BadeDatos1\BadeDatos1\bin\Debug\Itinerario_log.ldf
+Z:\Documentos\Visual Studio 2013\Projects\csharp20152\BadeDatos1\BadeDatos1\bin\Debug\BadeDatos1.exe
+Z:\Documentos\Visual Studio 2013\Projects\csharp20152\BadeDatos1\BadeDatos1\bin\Debug\BadeDatos1.pdb
+Z:\Documentos\Visual Studio 2013\Projects\csharp20152\BadeDatos1\BadeDatos1\obj\Debug\BadeDatos1.csprojResolveAssemblyReference.cache
+Z:\Documentos\Visual Studio 2013\Projects\csharp20152\BadeDatos1\BadeDatos1\obj\Debug\BadeDatos1.Form1.resources
+Z:\Documentos\Visual Studio 2013\Projects\csharp20152\BadeDatos1\BadeDatos1\obj\Debug\BadeDatos1.Properties.Resources.resources
+Z:\Documentos\Visual Studio 2013\Projects\csharp20152\BadeDatos1\BadeDatos1\obj\Debug\BadeDatos1.csproj.GenerateResource.Cache
+Z:\Documentos\Visual Studio 2013\Projects\csharp20152\BadeDatos1\BadeDatos1\obj\Debug\BadeDatos1.exe
+Z:\Documentos\Visual Studio 2013\Projects\csharp20152\BadeDatos1\BadeDatos1\obj\Debug\BadeDatos1.pdb
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\CursoC#Avanzado\4.- BaseDatos\BadeDatos1\BadeDatos1\bin\Debug\BadeDatos1.exe.config
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\CursoC#Avanzado\4.- BaseDatos\BadeDatos1\BadeDatos1\obj\Debug\BadeDatos1.exe
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\CursoC#Avanzado\4.- BaseDatos\BadeDatos1\BadeDatos1\obj\Debug\BadeDatos1.pdb
+C:\Users\llara\Downloads\C#Avanzado\C#Avanzado\4.- BaseDatos\BadeDatos1\BadeDatos1\bin\Debug\BadeDatos1.exe.config
+C:\Users\llara\Downloads\C#Avanzado\C#Avanzado\4.- BaseDatos\BadeDatos1\BadeDatos1\obj\Debug\BadeDatos1.exe
+C:\Users\llara\Downloads\C#Avanzado\C#Avanzado\4.- BaseDatos\BadeDatos1\BadeDatos1\obj\Debug\BadeDatos1.pdb
+C:\Users\llara\Downloads\C#Avanzado\C#Avanzado\4.- BaseDatos\BadeDatos1\BadeDatos1\bin\Debug\Itinerario.mdf
+C:\Users\llara\Downloads\C#Avanzado\C#Avanzado\4.- BaseDatos\BadeDatos1\BadeDatos1\bin\Debug\Itinerario_log.ldf
+C:\Users\llara\Downloads\C#Avanzado\C#Avanzado\4.- BaseDatos\BadeDatos1\BadeDatos1\bin\Debug\BadeDatos1.exe
+C:\Users\llara\Downloads\C#Avanzado\C#Avanzado\4.- BaseDatos\BadeDatos1\BadeDatos1\bin\Debug\BadeDatos1.pdb
+C:\Users\llara\Downloads\C#Avanzado\C#Avanzado\4.- BaseDatos\BadeDatos1\BadeDatos1\obj\Debug\BadeDatos1.csprojResolveAssemblyReference.cache
+C:\Users\llara\Downloads\C#Avanzado\C#Avanzado\4.- BaseDatos\BadeDatos1\BadeDatos1\obj\Debug\BadeDatos1.Form1.resources
+C:\Users\llara\Downloads\C#Avanzado\C#Avanzado\4.- BaseDatos\BadeDatos1\BadeDatos1\obj\Debug\BadeDatos1.Properties.Resources.resources
+C:\Users\llara\Downloads\C#Avanzado\C#Avanzado\4.- BaseDatos\BadeDatos1\BadeDatos1\obj\Debug\BadeDatos1.csproj.GenerateResource.Cache

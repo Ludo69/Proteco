@@ -1,0 +1,8 @@
+Para instalar el proyecto, sigue los siguientes pasos:
+
+-Instala la versión de Xampp 5.6.24 / PHP 5.6.24, con la 7 no sirve bien.
+-Ya instalado, inicia el xampp, abre phpmyadmin y crea una base de datos llamada 'proteco'. Para el cotejamiento, ponle utf8_bin.
+-Ya creada la base de datos, ve a la opcion import y selecciona importar el archivo 'proteco.sql'
+-Ya importada la base de datos, copia la carpeta 'protecoviejo' a htdocs.
+-Para abrir la página, usa la ruta localhost/protecoviejo
+-Recuerda que lo más importante es que hagan las vistas, no que se metan tanto a la implementación del código en php, aunque si requieren explicación, con gusto les puedo ayudar.

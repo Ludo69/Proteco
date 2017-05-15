@@ -1,0 +1,9 @@
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\GraficarEcuacion\GraficarEcuacion\bin\Debug\GraficarEcuacion.exe.config
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\GraficarEcuacion\GraficarEcuacion\bin\Debug\GraficarEcuacion.exe
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\GraficarEcuacion\GraficarEcuacion\bin\Debug\GraficarEcuacion.pdb
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\GraficarEcuacion\GraficarEcuacion\obj\Debug\GraficarEcuacion.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\GraficarEcuacion\GraficarEcuacion\obj\Debug\GraficarEcuacion.Form1.resources
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\GraficarEcuacion\GraficarEcuacion\obj\Debug\GraficarEcuacion.Properties.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\GraficarEcuacion\GraficarEcuacion\obj\Debug\GraficarEcuacion.csproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\GraficarEcuacion\GraficarEcuacion\obj\Debug\GraficarEcuacion.exe
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\GraficarEcuacion\GraficarEcuacion\obj\Debug\GraficarEcuacion.pdb

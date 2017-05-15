@@ -1,0 +1,12 @@
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\PrimerChart\PrimerChart\bin\Debug\PrimerChart.exe.config
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\PrimerChart\PrimerChart\bin\Debug\PrimerChart.exe
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\PrimerChart\PrimerChart\bin\Debug\PrimerChart.pdb
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\PrimerChart\PrimerChart\obj\Debug\PrimerChart.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\PrimerChart\PrimerChart\obj\Debug\PrimerChart.Form1.resources
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\PrimerChart\PrimerChart\obj\Debug\PrimerChart.Properties.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\PrimerChart\PrimerChart\obj\Debug\PrimerChart.csproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\PrimerChart\PrimerChart\obj\Debug\PrimerChart.exe
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\PrimerChart\PrimerChart\obj\Debug\PrimerChart.pdb
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\CursoC#Avanzado\3.- Controles Avanzados\PrimerChart\PrimerChart\bin\Debug\PrimerChart.exe.config
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\CursoC#Avanzado\3.- Controles Avanzados\PrimerChart\PrimerChart\obj\Debug\PrimerChart.exe
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\CursoC#Avanzado\3.- Controles Avanzados\PrimerChart\PrimerChart\obj\Debug\PrimerChart.pdb

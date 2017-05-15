@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<!--Primera directiva de angular, le dice que toda esta página es controlada por el modulo de angular myApp-->
+<html lang="en" ng-app="myApp">
+<head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+
+  <!--Incluir angular script-->
+  <script src="js/angular.min.js"></script>
+  <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.7/css/materialize.min.css">
+</head>
+<!--Asociar controlador a la página-->
+<body ng-controller="movieCtrl as movie">
+<!--Hola mundo-->
+<p>Hola Mundo</p>
+<p>{{"Hola angular Js :D"}}</p>
+  <div class="container">
+  						<!--Nombre de la variable a la que va a estar ligada-->
+    <input ng-model="search">
+  </div>
+
+  <p>{{search}}</p>
+
+	<div class="row">
+		<div class="col s12 m2" ng-repeat="n in movie.nombre | filter: search">
+			<span>{{n.nombre}}</span>
+		</div>
+	</div>
+
+      <div class="row">
+        <div class="col s12 m2" ng-repeat="m in movie.collection | filter : search | orderBy: 'year' : 1">
+          <div class="card">
+
+            <div class="card-image">
+              <img ng-src="{{m.img}}">
+              <span class="card-title">{{m.name}}</span>
+            </div>
+
+            <div class="card-content center">
+              <p>{{m.year}} <br> {{m.category}}</p>
+
+	          <h5>Cast</h5>
+	          <ul ng-repeat="p in m.cast">
+	            <li> {{p}}</li>
+	          </ul>
+            </div>
+
+            <div class="card-action">
+              <a href="#">Ver película</a>
+            </div>
+
+          </div>
+        </div>
+      </div>
+
+
+  <script src="js/app.js"></script>
+  <!--<script src="js/modo.js"></script>-->
+</body>
+</html>

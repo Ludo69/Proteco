@@ -1,0 +1,15 @@
+button{
+	margin-top: 20px;
+	align: center;
+}
+
+.cuadro{
+	background: rgba(163,163,194,.09);
+	border-radius: 25px;
+}
+
+.container{
+	height: 643px;
+	width: 100%;
+
+}

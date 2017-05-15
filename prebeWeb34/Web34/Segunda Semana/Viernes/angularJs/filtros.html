@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html ng-app>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        
+        <!-- Incluir Bootstrap -->
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+        
+        <!-- Incluir AngularJS -->
+        <script src="js/angular.min.js"></script>
+
+    </head>    
+    <body>
+
+        <div class="container">
+            
+            <h1>Filtros :: Filters</h1>
+            <h4>en angularjs</h4>
+            <hr>
+
+            <p>
+                Filtro de texto: {{ "FerNandO" }}
+                <br>
+                Filtro de texto: {{ "FerNandO" | uppercase }}
+                <br>
+                Filtro de texto: {{ "FerNandO" | lowercase }}
+            </p>
+
+            <p>
+                Filtro de moneda: {{ 1350 }}
+                <br>
+                Filtro de moneda: {{ 1350 | currency }}
+                <br>
+                Filtro de moneda: {{ 1350 | currency:'L.' }}
+            </p>
+
+            <p>
+                Filtro de número: {{ 1350000 }}
+                <br>
+                Filtro de número: {{ 1350000 | number }}
+            </p>
+            
+
+        </div>
+
+        <div class="container">
+            
+            <h1>ng-model</h1>
+            <h4>en angularjs</h4>
+            <hr>
+            
+            <p>
+                Su nombre: {{ nombre | uppercase }}
+                <br>
+                <input type="text" ng-model="nombre"  class="form-control" placeholder="Ingrese su nombre">
+            </p>
+            
+            <p>
+                Seleccione el pais: {{ pais }}
+                <select class="form-control" ng-model="pais">
+                    <option value="1">Costa Rica</option>
+                    <option value="2">México</option>
+                    <option value="3">Colombia</option>
+                </select>
+            </p>
+
+            <p>
+                Seleccione las opciones que desea: {{ opt1 }} {{ opt2 }}
+                <br>
+                <input ng-init="true" type="checkbox" ng-model="opt1"> Opción 1
+                <br>
+                <input type="checkbox" ng-init="true" ng-model="opt2"> Opcion 2
+            </p>
+
+            <p>
+                Seleccione el genero: {{ genero }}
+                <br>
+                <input type="radio" value="M" ng-model="genero"> Masculino
+                <br>
+                <input type="radio" value="F" ng-model="genero"> Femenino
+            </p>
+
+
+
+            
+
+        </div>
+
+
+    </body>
+</html>

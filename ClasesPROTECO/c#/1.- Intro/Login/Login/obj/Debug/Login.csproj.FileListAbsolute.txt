@@ -1,0 +1,20 @@
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\Login\Login\bin\Debug\Login.exe.config
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\Login\Login\bin\Debug\Login.exe
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\Login\Login\bin\Debug\Login.pdb
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\Login\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\Login\Login\obj\Debug\Login.exe
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\Login\Login\obj\Debug\Login.pdb
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\CursoC#Avanzado\1.- Intro\Login\Login\bin\Debug\Login.exe.config
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\CursoC#Avanzado\1.- Intro\Login\Login\obj\Debug\Login.exe
+C:\Users\AlonsoV\Desktop\C#Curso\csharp-examples-master\CursoC#Avanzado\1.- Intro\Login\Login\obj\Debug\Login.pdb
+C:\Users\llara\Downloads\C#Avanzado\C#Avanzado\1.- Intro\Login\Login\bin\Debug\Login.exe.config
+C:\Users\llara\Downloads\C#Avanzado\C#Avanzado\1.- Intro\Login\Login\obj\Debug\Login.exe
+C:\Users\llara\Downloads\C#Avanzado\C#Avanzado\1.- Intro\Login\Login\obj\Debug\Login.pdb
+C:\Users\llara\Downloads\C#Avanzado\C#Avanzado\1.- Intro\Login\Login\bin\Debug\Login.exe
+C:\Users\llara\Downloads\C#Avanzado\C#Avanzado\1.- Intro\Login\Login\bin\Debug\Login.pdb
+C:\Users\llara\Downloads\C#Avanzado\C#Avanzado\1.- Intro\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+C:\Users\llara\Downloads\C#Avanzado\C#Avanzado\1.- Intro\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\llara\Downloads\C#Avanzado\C#Avanzado\1.- Intro\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\llara\Downloads\C#Avanzado\C#Avanzado\1.- Intro\Login\Login\obj\Debug\Login.csproj.GenerateResource.Cache

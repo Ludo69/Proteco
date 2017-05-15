@@ -1,0 +1,3 @@
+Hacer que los prebes suban cuaqueira de sus páginas web a hostinguer utilizando filezilla, si a nadie le sale
+usar el ftp con interfaz gráfica de hostinguer. Mencionar que ahí pueden subir su base de datos
+y que también pueden ligarlo con git.

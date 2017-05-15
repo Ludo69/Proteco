@@ -1,0 +1,27 @@
+{
+    "name": "proteco",
+    "type": "project",
+    "description": "Inscripciones",
+    "homepage": "http://proteco.fi-b.unam.mx/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alejandro Zepeda",
+            "email": "alejandrozv@icloud.com",
+            "homepage": "http://proteco.fi-b.unam.mx/",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "itbz/fpdf": "1.7.2",
+        "itbz/fpdi": "dev-master"
+        
+    },
+    "autoload": {
+        "psr-4": {
+            "": "app/"
+        }
+    },
+    "minimum-stability": "dev"
+}
